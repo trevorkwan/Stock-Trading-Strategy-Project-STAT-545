@@ -14,6 +14,7 @@ When choosing DEMA input values, the short term DEMA value must always be less t
 
 The full R Shiny dashboard source code can be found [here](https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545/blob/main/src/app.R).
 
+## Example
 Shown below is what the dashboard would look like when you run the code:
 
 ![alt text](https://raw.githubusercontent.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545/main/src/dema_faang_pic.png)
