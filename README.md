@@ -1,5 +1,6 @@
 # Stock Trading DEMA Strategy Dashboard 
 
+## Description
 The DEMA crossover trading strategy executes a buy when the shorter term DEMA is greater than the longer term DEMA (crossing upwards), and executes a sell when the shorter term DEMA is less than the longer term DEMA (crossing downwards).
 
 The dashboard plots the adjusted closing price of Faang stock and two double exponential moving averages (DEMA) within a specified time frame. The app simulates the DEMA crossover trading strategy, calculating:
