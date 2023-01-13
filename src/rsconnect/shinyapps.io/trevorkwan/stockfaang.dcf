@@ -1,0 +1,12 @@
+name: stockfaang
+title: stockfaang
+username:
+account: trevorkwan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3303465
+bundleId: 3907104
+url: https://trevorkwan.shinyapps.io/stockfaang/
+when: 1606352024.20647
+asMultiple: FALSE
+asStatic: FALSE
